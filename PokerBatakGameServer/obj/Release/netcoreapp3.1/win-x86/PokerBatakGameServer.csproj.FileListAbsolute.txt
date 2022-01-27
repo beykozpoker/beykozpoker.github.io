@@ -1,0 +1,13 @@
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.exe
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x86\Settings.job
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.deps.json
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.runtimeconfig.json
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.runtimeconfig.dev.json
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.pdb
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.AssemblyInfoInputs.cache
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.AssemblyInfo.cs
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.csproj.CoreCompileInputs.cache
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.dll
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.pdb
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x86\PokerBatakGameServer.genruntimeconfig.cache

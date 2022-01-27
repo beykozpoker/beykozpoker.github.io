@@ -1,0 +1,468 @@
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.exe
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Settings.job
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.deps.json
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.runtimeconfig.json
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.runtimeconfig.dev.json
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.pdb
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.AssemblyInfoInputs.cache
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.AssemblyInfo.cs
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.csproj.CoreCompileInputs.cache
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.dll
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.pdb
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.genruntimeconfig.cache
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.CSharp.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.Core.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Primitives.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Registry.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.AppContext.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Buffers.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Collections.Concurrent.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Collections.Immutable.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Collections.NonGeneric.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Collections.Specialized.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Collections.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Annotations.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Primitives.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.TypeConverter.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Configuration.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Console.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Core.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Data.Common.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Data.DataSetExtensions.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Data.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Contracts.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Debug.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Process.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.StackTrace.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tools.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TraceSource.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tracing.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Primitives.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Drawing.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Dynamic.Runtime.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Calendars.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Extensions.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Globalization.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.Brotli.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.FileSystem.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.ZipFile.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Primitives.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Watcher.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.IsolatedStorage.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.MemoryMappedFiles.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.AccessControl.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Linq.Expressions.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Linq.Parallel.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Linq.Queryable.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Linq.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Memory.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Http.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.HttpListener.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Mail.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.NameResolution.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.NetworkInformation.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Ping.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Primitives.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Requests.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Security.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.ServicePoint.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Sockets.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.WebClient.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.WebHeaderCollection.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.WebProxy.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.Client.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Numerics.Vectors.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Numerics.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ObjectModel.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Private.DataContractSerialization.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Private.Uri.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.Linq.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.DispatchProxy.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Extensions.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Metadata.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Primitives.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.TypeExtensions.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Resources.Reader.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Resources.ResourceManager.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Resources.Writer.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Extensions.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Handles.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Intrinsics.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Loader.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Numerics.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Json.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Xml.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.AccessControl.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Claims.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Cng.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Csp.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Encoding.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Primitives.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.Windows.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.SecureString.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Web.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ServiceProcess.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.CodePages.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.Extensions.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.Encodings.Web.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.Json.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.RegularExpressions.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Channels.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Overlapped.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Extensions.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Parallel.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Thread.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.ThreadPool.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Timer.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Transactions.Local.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Transactions.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ValueTuple.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Web.HttpUtility.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Web.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Windows.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.Linq.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.ReaderWriter.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.Serialization.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.XDocument.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.XDocument.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlDocument.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlSerializer.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\WindowsBase.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscorlib.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\netstandard.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\SOS_README.md
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Private.CoreLib.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-console-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-2-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l2-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-string-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-util-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\clrcompression.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\clretwrc.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\clrjit.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\coreclr.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\dbgshim.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\hostfxr.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\hostpolicy.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscordaccore.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscordaccore_amd64_amd64_4.700.20.36602.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscordbi.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscorrc.debug.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscorrc.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\ucrtbase.dll
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.csproj.CopyComplete
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.exe
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Settings.job
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.deps.json
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.runtimeconfig.json
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.runtimeconfig.dev.json
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.pdb
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.AssemblyInfoInputs.cache
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.AssemblyInfo.cs
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.csproj.CoreCompileInputs.cache
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.pdb
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.genruntimeconfig.cache
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.CSharp.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.AppContext.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Buffers.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Collections.Concurrent.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Collections.Immutable.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Collections.NonGeneric.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Collections.Specialized.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Collections.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Configuration.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Console.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Core.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Data.Common.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Data.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Debug.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Process.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tools.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Primitives.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Drawing.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Dynamic.Runtime.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Calendars.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Extensions.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Globalization.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.IO.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Linq.Expressions.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Linq.Parallel.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Linq.Queryable.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Linq.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Memory.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Http.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.HttpListener.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Mail.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.NameResolution.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.NetworkInformation.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Ping.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Primitives.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Requests.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Security.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.ServicePoint.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.Sockets.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.WebClient.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.WebProxy.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Net.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Numerics.Vectors.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Numerics.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ObjectModel.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Private.Uri.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.Linq.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Extensions.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Metadata.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Primitives.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Reflection.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Resources.Reader.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Resources.ResourceManager.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Resources.Writer.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Extensions.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Handles.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Loader.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Numerics.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Runtime.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.AccessControl.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Claims.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.Windows.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.SecureString.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Security.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Web.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ServiceProcess.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.Encodings.Web.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.Json.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Text.RegularExpressions.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Channels.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Overlapped.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Thread.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.ThreadPool.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.Timer.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Threading.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Transactions.Local.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Transactions.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.ValueTuple.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Web.HttpUtility.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Web.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Windows.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.Linq.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.Serialization.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.XDocument.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlDocument.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Xml.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\WindowsBase.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscorlib.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\netstandard.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\SOS_README.md
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\System.Private.CoreLib.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-console-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-2-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l2-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-string-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-util-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\clrcompression.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\clretwrc.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\clrjit.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\coreclr.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\dbgshim.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\hostfxr.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\hostpolicy.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscordaccore.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscordaccore_amd64_amd64_4.700.21.26205.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscordbi.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscorrc.debug.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\mscorrc.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\win-x64\ucrtbase.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\win-x64\PokerBatakGameServer.csproj.CopyComplete

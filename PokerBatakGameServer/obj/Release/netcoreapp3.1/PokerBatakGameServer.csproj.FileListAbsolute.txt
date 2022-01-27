@@ -1,0 +1,28 @@
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.exe
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\Settings.job
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.deps.json
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.runtimeconfig.json
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.runtimeconfig.dev.json
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.dll
+C:\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.pdb
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.csprojAssemblyReference.cache
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.AssemblyInfoInputs.cache
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.AssemblyInfo.cs
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.csproj.CoreCompileInputs.cache
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.dll
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.pdb
+C:\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.genruntimeconfig.cache
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.exe
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\Settings.job
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.deps.json
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.runtimeconfig.json
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.runtimeconfig.dev.json
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\PokerBatakGameServer.pdb
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.AssemblyInfoInputs.cache
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.AssemblyInfo.cs
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.csproj.CoreCompileInputs.cache
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.pdb
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.genruntimeconfig.cache
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\obj\Release\netcoreapp3.1\PokerBatakGameServer.csproj.AssemblyReference.cache

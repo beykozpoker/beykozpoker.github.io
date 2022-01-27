@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPz7XVzkibKkS7pEQ6LGSH+mRHnDjxHTjz9QDmYo5NgKTePsl5nHUYjfFl2lSfw1Ab+26RyBTmoJ5Kcbl4FjfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tulpar T5\\Desktop\\PokerBatakGameServer\\PokerBatakGameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tulpar T5\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.16\\microsoft.netcore.app.runtime.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\Tulpar T5\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.16\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\Tulpar T5\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.16\\microsoft.aspnetcore.app.runtime.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

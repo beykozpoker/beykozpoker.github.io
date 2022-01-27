@@ -1,0 +1,6 @@
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\publish\Settings.job
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\publish\PokerBatakGameServer.exe
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\publish\PokerBatakGameServer.dll
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\publish\PokerBatakGameServer.deps.json
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\publish\PokerBatakGameServer.runtimeconfig.json
+C:\Users\Tulpar T5\Desktop\PokerBatakGameServer\bin\Release\netcoreapp3.1\publish\PokerBatakGameServer.pdb

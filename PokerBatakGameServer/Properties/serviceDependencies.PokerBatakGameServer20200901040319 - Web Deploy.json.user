@@ -1,0 +1,13 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "Deneme"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "8bd77081-80d7-4463-bcf8-4ec770753f73"
+    }
+  }
+}

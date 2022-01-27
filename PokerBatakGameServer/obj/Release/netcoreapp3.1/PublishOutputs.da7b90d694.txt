@@ -1,0 +1,6 @@
+C:\Users\Tulpar T5\Desktop\serverRelease\Settings.job
+C:\Users\Tulpar T5\Desktop\serverRelease\PokerBatakGameServer.exe
+C:\Users\Tulpar T5\Desktop\serverRelease\PokerBatakGameServer.dll
+C:\Users\Tulpar T5\Desktop\serverRelease\PokerBatakGameServer.deps.json
+C:\Users\Tulpar T5\Desktop\serverRelease\PokerBatakGameServer.runtimeconfig.json
+C:\Users\Tulpar T5\Desktop\serverRelease\PokerBatakGameServer.pdb
